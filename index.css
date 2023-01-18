@@ -22,3 +22,69 @@ header {
 
     padding: 48px;
 }
+
+
+
+
+
+form {
+    display: flex;
+    font-family: serif;
+
+    padding: 48px;
+}
+
+
+
+input[type=checkbox] {
+    appearance: none;
+    -webkit-appearance: none;
+
+    width: 64px;
+    height: 64px;
+
+    background-color: #18181B;
+    border: 1px solid #27272A;
+    border-radius: 8px;
+}
+
+input[type=checkbox]:checked {
+    background-color: #8B5CF6;
+    border: 1px solid #A78BFA;
+}
+
+
+
+.days {
+    display: flex;
+    gap: 48px;
+
+    margin-left: 32px;
+}
+
+.day {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+
+
+
+.habits-icons {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+
+    margin-top: 45px;
+}
+
+.habits {
+    font-size: 32px;
+
+    width: 64px;
+    height: 64px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
