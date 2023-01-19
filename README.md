@@ -15,14 +15,14 @@ Página web de um controlador de hábitos diários baseado nas aulas da trilha E
 # Features:
 
 Principais:
-- [ ] Logo do site
+- [x] Logo do site
 - [ ] Botão de registrar o dia
-- [ ] Classificações de hábitos
-- [ ] Inputs marcadores de hábitos referentes ao dia do mês
+- [x] Classificações de hábitos
+- [x] Inputs checkbox de hábitos referentes ao dia do mês
 
 Adicionais:
-- [ ] Mês e ano no cabeçalho como identificadores dos hábitos
-- [ ] Adequar a quantidade de inputs ao número de dias do mês em questão
+- [x] Mês e ano no cabeçalho como identificadores dos hábitos
+- [x] Adequar a quantidade de inputs ao número de dias do mês em questão
 
 # Tecnologias e ferramentas utilizadas:
 

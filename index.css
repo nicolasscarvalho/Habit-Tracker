@@ -46,6 +46,8 @@ input[type=checkbox] {
     background-color: #18181B;
     border: 1px solid #27272A;
     border-radius: 8px;
+
+    transition: 0.25s;
 }
 
 input[type=checkbox]:checked {
@@ -55,7 +57,7 @@ input[type=checkbox]:checked {
 
 
 
-.days {
+#days {
     display: flex;
     gap: 48px;
 
@@ -70,7 +72,7 @@ input[type=checkbox]:checked {
 
 
 
-.habits-icons {
+#habits-icons {
     display: flex;
     flex-direction: column;
     gap: 30px;
