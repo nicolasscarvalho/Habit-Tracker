@@ -20,10 +20,12 @@ const habits = {
 };
 const habitsIcons = document.getElementById('habits-icons');
 
-Object.keys(habits).forEach((h) => {
+Object.keys(habits).forEach((habitIcon) => {
     const habit = document.createElement('div');
     
     habit.className = 'habits';
+    habit.innerText = habitIcon
+
     habitsIcons.appendChild(habit);
 })
 
