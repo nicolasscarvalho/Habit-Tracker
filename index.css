@@ -21,6 +21,9 @@ header {
     justify-content: space-between;
 
     padding: 48px;
+
+    width: 100%;
+    position: fixed;
 }
 
 
@@ -31,7 +34,8 @@ form {
     display: flex;
     font-family: serif;
 
-    padding: 48px;
+    padding: 180px 48px;
+    width: fit-content;
 }
 
 
