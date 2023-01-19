@@ -23,6 +23,8 @@ Principais:
 Adicionais:
 - [x] Mês e ano no cabeçalho como identificadores dos hábitos
 - [x] Adequar a quantidade de inputs ao número de dias do mês em questão
+- [x] Efeito hover nos inputs checkbox
+- [ ] Posição fixa no scroll horizontal dos ícones dos hábitos
 
 # Tecnologias e ferramentas utilizadas:
 

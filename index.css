@@ -60,6 +60,11 @@ input[type=checkbox]:checked {
     border: 1px solid #A78BFA;
 }
 
+input[type=checkbox]:hover {
+    border: 1px solid #A78BFA;
+    box-shadow: 0px 0px 5px 0px #A78BFA;
+}
+
 
 
 #days {
