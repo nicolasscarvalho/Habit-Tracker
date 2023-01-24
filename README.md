@@ -16,15 +16,15 @@ Página web de um controlador de hábitos diários baseado nas aulas da trilha E
 
 Principais:
 - [x] Logo do site
-- [ ] Botão de registrar o dia
 - [x] Classificações de hábitos
 - [x] Inputs checkbox de hábitos referentes ao dia do mês
+- [x] Salvar as modificações automaticamente
 
 Adicionais:
 - [x] Mês e ano no cabeçalho como identificadores dos hábitos
 - [x] Adequar a quantidade de inputs ao número de dias do mês em questão
 - [x] Efeito hover nos inputs checkbox
-- [ ] Posição fixa no scroll horizontal dos ícones dos hábitos
+- [x] Posição fixa no scroll horizontal dos ícones dos hábitos
 
 # Tecnologias e ferramentas utilizadas:
 
