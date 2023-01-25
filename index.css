@@ -39,7 +39,7 @@ form {
     font-family: serif;
 
     padding: 180px 48px 48px 48px;
-    width: fit-content;
+    width: 100%;
 }
 
 
@@ -118,4 +118,41 @@ input[type=checkbox]:hover {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+
+
+
+
+@media only screen and (max-width: 641px) {
+
+    #days{
+        width: 20vw;
+        overflow-x: auto;
+    }
+
+    form{
+        width: 100%;
+    }
+
+}
+
+
+@media only screen and (max-width: 1007px) {
+
+    #days{
+        width: 80vw;
+        overflow-x: auto;
+    }
+
+}
+
+
+@media only screen and (min-width: 1008px) {
+
+    #days{
+        width: 100vw;
+        overflow-x: auto;
+    }
+
 }
